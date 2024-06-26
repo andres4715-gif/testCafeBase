@@ -9,4 +9,3 @@ class ExamplePage {
 }
 
 export default new ExamplePage();
-// this is the demo page
